@@ -15,3 +15,10 @@ A dummy food ordering app where you can
 - choose the amount of items
 - cutomize the card
 the prices are calculated automatically
+
+### 14-API-Database
+A react app for getting movies data from swapi.dev API. Functoionalities include:
+- sending HTTP requests and connecting to a database
+
+### 15-custom-hooks
+A react app with a custom hook for sending http requests
