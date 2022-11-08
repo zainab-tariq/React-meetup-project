@@ -14,11 +14,13 @@ A test application for email and password input validation by using the useState
 ![a snapshot of the project](/img/10.png)
 
 ### 011-food-ordering-project
-A dummy food ordering app where you can 
+A dummy food ordering app where you can
+- get a list of food items from a database
 - add food items to a cart
 - choose the amount of items
 - cutomize the card
-the prices are calculated automatically
+- calculate the prices
+- send orders to a database
 
 ![a snapshot of the project](/img/11.png)
 
