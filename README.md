@@ -32,3 +32,9 @@ A react app for getting movies data from swapi.dev API. Functoionalities include
 A react app with a custom hook for sending http requests
 
 ![a snapshot of the project](/img/14.png)
+
+### 19-redux-async
+A project for adding items to a cart and sending the data to a database using 
+- react redux tools, 
+- action creator thud for async functions
+![a snapshot of the project](/img/19.png)
